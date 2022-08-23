@@ -18,4 +18,10 @@ permalink: /about
 
 This theme is completely free and open source software. You may use it however you want, as it is distributed under the [MIT License](http://choosealicense.com/licenses/mit/). If you are having any problems, any questions or suggestions, feel free to [tweet at me](https://twitter.com/intent/tweet?text=My%question%about%Lagrange%is:%&amp;via=paululele), or [file a GitHub issue](https://github.com/lenpaul/lagrange/issues/new). -->
 
+Hi! I'm a Physics PhD student at Duke University working with Prof. Dan Scolnic on Type Ia Supernova (SNIa) cosmology. I'm especially interested in using photometric redshifts for SNIa cosmological analyses, either from the host galaxy or the SN itself, as well as leveraging the techniques and expertise developed from other cosmological probes such as weak lensing and large scale structure. I am also interested in the ways in which we can use data science to improve social equity and impact. 
+
+I did my undergraduate at the University of Chicago, where I worked with Prof. Chihway Chang on projects in weak lensing and was a member of the first graduating class of Astronomy and Astrophysics majors! I also spent a summer at the historic Yerkes Observatory, as well as a summer at the Academic Sinic Institute of Astronomy and Astrophysics in Taipei. In my spare time, I enjoy reading, cooking and baking, sewing and knitting my own wardrobe, and board games.
+
+
+
 Under construction
