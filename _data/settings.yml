@@ -17,6 +17,8 @@ social:
 - {icon: 'github',     link: 'https://www.github.com/rebeccachen0'}
 - {icon: 'linkedin',   link: 'http://www.linkedin.com/in/rebeccachen0/'}
 - {icon: 'envelope',   link: 'mailto:rcc.29@duke.edu'}
+- {icon: 'orcid', link: 'https://orcid.org/0000-0003-3917-0966'}
+- {icon: 'google', link:'https://scholar.google.com/citations?user=4CqGrUIAAAAJ&hl=en'}
 
 
 # Customize site text
