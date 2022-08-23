@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-image: IMG_1978 2.heic
+image: headshot.jpg
 permalink: /about
 ---
 
