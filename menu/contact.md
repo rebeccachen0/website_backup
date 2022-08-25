@@ -4,5 +4,5 @@ title: Contact
 permalink: /contact
 ---
 
-Please don't hesitate to [email me](mailto:rcc29@duke.edu)!
+Email is the easiest way to get in touch with me. I'm always happy to chat or help however I can!
 
