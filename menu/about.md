@@ -2,7 +2,6 @@
 layout: page
 title: About Me
 image: headshot.jpg
-permalink: /about
 ---
 
 Hi! I'm a Physics PhD candidate at Duke University working with Prof. Dan Scolnic on Type Ia Supernova (SNIa) cosmology. I'm especially interested in using photometric redshifts for SNIa cosmological analyses, either from the host galaxy or the SN itself, as well as leveraging the techniques and expertise developed from other cosmological probes such as weak lensing and large scale structure. I am also interested in the ways in which we can use data science to improve social equity and impact, and am actively looking for volunteer or part-time positions, particularly in climate and food systems. 
