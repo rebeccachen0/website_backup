@@ -4,5 +4,5 @@ title: Contact
 permalink: /contact
 ---
 
-Email is the easiest way to get in touch with me. I'm always happy to chat or help however I can!
+Please feel free to reach out! I'm always happy to chat about my research or my experiences navigating both undergraduate and graduate school, whether it's about applications, combatting imposter syndrome, getting started in research, or anything else. Email is the easiest way to get in touch with me. 
 
