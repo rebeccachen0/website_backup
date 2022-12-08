@@ -3,6 +3,8 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hi! I'm Rebecca, a Physics PhD candidate at Duke University working with Prof. Dan Scolnic on Type Ia Supernova (SNIa) cosmology. My thesis work is focused on using photometric redshifts for SNIa cosmological analyses, either from the host galaxy or the SN itself. To do so effectively, I'm interested in leveraging the techniques and expertise developed from other cosmological probes that have already long been reliant on photometric redshifts, such as weak lensing and large scale structure. To this end, I'm also interested in all things redshift systematics and host-galaxy systematics related.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+I did my undergraduate at the University of Chicago, where I worked with Prof. Chihway Chang on projects in weak lensing and was a member of the first graduating class of Astronomy and Astrophysics majors! I also spent a summer at the historic Yerkes Observatory, as well as a summer at the Academic Sinica Institute of Astronomy and Astrophysics in Taipei.
+
+Outside of academia, I am also invested in learning about the ways in which we can use data science methods to improve social equity and impact, and am actively looking for volunteer or part-time positions, particularly in climate and food systems. In my spare time, I enjoy reading, cooking and baking, sewing and knitting my own wardrobe, and board games.
