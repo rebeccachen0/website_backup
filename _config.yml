@@ -65,6 +65,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/rebeccachen0"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:rcc29@duke.edu"
     - label: "LinkedIn"
       icon: "fas fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/rebeccachen0/"
@@ -72,17 +75,17 @@ author:
       icon: "fas fa-fw fa-orcid"
       url: "https://orcid.org/0000-0003-3917-0966"
 
-footer:
-  links:
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/rebeccachen0"
-    - label: "LinkedIn"
-      icon: "fas fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/rebeccachen0/"
-    - label: "ORCID"
-      icon: "fas fa-fw fa-orcid"
-      url: "https://orcid.org/0000-0003-3917-0966"
+# footer:
+#   links:
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/rebeccachen0"
+#     - label: "LinkedIn"
+#       icon: "fas fa-fw fa-linkedin"
+#       url: "https://www.linkedin.com/in/rebeccachen0/"
+#     - label: "ORCID"
+#       icon: "fas fa-fw fa-orcid"
+#       url: "https://orcid.org/0000-0003-3917-0966"
 
 
 defaults:
