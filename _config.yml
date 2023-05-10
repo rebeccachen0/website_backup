@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Rebecca Chen"
   avatar : "/assets/images/IMG_7615.jpeg"
-  bio    : "PhD Candidate at Duke studying cosmology. Visiting at SLAC under DOE SCGSR Program until May! "
+  bio    : "PhD Candidate at Duke studying cosmology. "
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
